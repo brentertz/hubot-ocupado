@@ -1,0 +1,23 @@
+{
+  "name": "hubot-ocupado",
+  "version": "0.0.1",
+  "description": "Hubot script for interacting with the Ocupado bathroom occupancy detector.",
+  "homepage": "https://github.com/brentertz/hubot-ocupado",
+  "author": "Brent Ertz <brent.ertz@gmail.com> (http://brentertz.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brentertz/hubot-ocupado.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brentertz/hubot-ocupado/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "ocupado"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
